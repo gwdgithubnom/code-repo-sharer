@@ -30,6 +30,7 @@ function Get_repo_url() {
    fi
    repo_url=$(curl "$url" |grep "$app_name" |awk -F '[()]' '{print $2}')
    echo "$repo_url"
+   
 }
 Get_repo_url tmux https://github.com/mypublic-teamwork/code-repo-sharer.git /main/doc/t/t.md
 
