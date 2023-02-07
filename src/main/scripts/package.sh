@@ -57,5 +57,7 @@ for f in $files
 do
    # cd "$f" || exit
    function_compress "$f"
-   rm "$f"
+   # rm "$f"
+   mkdir -p "$PRGDIR""/log""$f"
+   mv "$f" "$PRGDIR""/log""$f"
 done
