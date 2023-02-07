@@ -21,7 +21,7 @@
 
 ### b-codespaces
 
-[https://www.bandicam.cn/](git://git@github.com:b-codespaces/bandicam.git): Bandicam（班迪录屏）高清电脑屏幕录制软件
+[https://www.bandicam.cn/](https://github.com/b-codespaces/bandicam.git): Bandicam（班迪录屏）高清电脑屏幕录制软件
 
 #### b-programs
 
@@ -51,7 +51,7 @@
 
 ### j-codespaces
 
-[https://github.com/j-codespaces/jadx.git](git://git@github.com:skylot/jadx.git): Java反编译软件
+[https://github.com/j-codespaces/jadx.git](https://github.com/skylot/jadx.git): Java反编译软件
 
 ### k-codespaces
 
@@ -85,15 +85,15 @@
 
 ### s-codespaces
 
-[https://github.com/s-codespaces/spark-excel.git](git://git@github.com:crealytics/spark-excel.git): Spark读取Excel文件的包装工具
+[https://github.com/s-codespaces/spark-excel.git](https://github.com/crealytics/spark-excel.git): Spark读取Excel文件的包装工具
 
-[https://github.com/s-codespaces/sqlmapproject-sqlmap.git](git://git@github.com:s-codespaces/sqlmapproject-sqlmap.git): SQL脚本注入代码
+[https://github.com/s-codespaces/sqlmapproject-sqlmap.git](https://github.com/s-codespaces/sqlmapproject-sqlmap.git): SQL脚本注入代码
 
 #### s-programs
 
 ### t-codespaces
 
-[https://github.com/t-codespaces/.tmux.git](git://git@github.com:gpakosz/.tmux.git): Tmux命令行的管理与配置工具配置
+[https://github.com/t-codespaces/.tmux.git](https://github.com/gpakosz/.tmux.git): Tmux命令行的管理与配置工具配置
 
 #### t-programs
 
@@ -103,7 +103,7 @@
 
 ### v-codespaces
 
-[https://github.com/v-codespaces/vulnerability.git](git://git@github.com:lal0ne/vulnerability.git): 收集、整理、修改互联网上公开的漏洞POC
+[https://github.com/v-codespaces/vulnerability.git](https://github.com/lal0ne/vulnerability.git): 收集、整理、修改互联网上公开的漏洞POC
 
 #### v-programs
 
